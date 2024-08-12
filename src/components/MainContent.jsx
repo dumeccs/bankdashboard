@@ -5,7 +5,7 @@ import Nav from './Nav'
 
 function MainContent() {
   return (
-    <Box flex="1" bg="green">
+    <Box flex="1" >
         <Nav/>
         <Flex bg={'orange'} minH={'90%'}>
             This is the main content
