@@ -15,11 +15,8 @@ function Nav() {
           Overview
         </Text>
       </Box>
-
       <Flex mx="20px" alignItems="center" justifyContent="space-evenly" width="40%" >
         <SearchBar />
-
-
         <IconButton
           icon={<SettingsIcon />}
           border='none'
@@ -34,24 +31,15 @@ function Nav() {
           width="50px"
           borderRadius="50%"
         />
-
         <Image
           borderRadius='50%'
           src='https://bit.ly/dan-abramov'
           alt="customers profile"
           boxSize="90px"
           objectFit='cover'
-
         />
-
       </Flex>
-
-
-
-
     </Flex>
-
-
   )
 }
 
