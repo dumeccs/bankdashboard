@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flex, Text, Icon, Image, IconButton } from '@chakra-ui/react'
+import { Box, Flex, Text, Image, IconButton } from '@chakra-ui/react'
 import SearchBar from './SearchBar'
 import SettingsIcon from '../icons/SettingsIcon'
 import AlertsIcon from '../icons/AlertsIcon'

@@ -13,9 +13,6 @@ import {
   FiCompass,
   FiStar,
   FiSettings,
-  FiMenu,
-  FiBell,
-  FiChevronDown,
 } from 'react-icons/fi'
 
 
